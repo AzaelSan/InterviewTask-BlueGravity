@@ -7225,8 +7225,8 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-    m_ActionId: db41f8a1-f823-46c9-af61-e68f95ff67fc
-    m_ActionName: Player/Interact[/Keyboard/e]
+    m_ActionId: 4c11deda-9950-4188-b91a-51b46f3702c8
+    m_ActionName: Player/New action[/Keyboard/e]
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
   m_DefaultActionMap: Player
